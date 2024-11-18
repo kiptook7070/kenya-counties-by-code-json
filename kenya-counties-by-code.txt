@@ -1,189 +1,189 @@
 export const countiesApiData = [{
 	"name": "Mombasa",
-	"code": 1,
+	"code": "001",
 	"capital": "Mombasa City"
 }, {
 	"name": "Kwale",
-	"code": 2,
+	"code": "002",
 	"capital": "Kwale"
 }, {
 	"name": "Kilifi",
-	"code": 3,
+	"code": "003",
 	"capital": "Kilifi"
 }, {
 	"name": "Tana River",
-	"code": 4,
+	"code": "004",
 	"capital": "Hola"
 
 }, {
 	"name": "Lamu",
-	"code": 5,
+	"code": "005",
 	"capital": "Lamu"
 }, {
 	"name": "Taita-Taveta",
-	"code": 6,
+	"code": "006",
 	"capital": "Voi"
 }, {
 	"name": "Garissa",
-	"code": 7,
+	"code": "007",
 	"capital": "Garissa"
 }, {
 	"name": "Wajir",
-	"code": 8,
+	"code": "008",
 	"capital": "Wajir"
 }, {
 	"name": "Mandera",
-	"code": 9,
+	"code": "009",
 	"capital": "Mandera"
 }, {
 	"name": "Marsabit",
-	"code": 10,
+	"code": "010",
 	"capital": "Marsabit"
 }, {
 	"name": "Isiolo",
-	"code": 11,
+	"code": "011",
 	"capital": "Isiolo"
 }, {
 	"name": "Meru",
-	"code": 12,
+	"code": "012",
 	"capital": "Meru"
 }, {
 	"name": "Tharaka-Nithi",
-	"code": 13,
+	"code": "013",
 	"capital": "Chuka"
 }, {
 	"name": "Embu",
-	"code": 14,
+	"code": "014",
 	"capital": "Embu"
 }, {
 	"name": "Kitui",
-	"code": 15,
+	"code": "015",
 	"capital": "Kitui"
 }, {
 	"name": "Machakos",
-	"code": 16,
+	"code": "016",
 	"capital": "Machakos"
 }, {
 	"name": "Makueni",
-	"code": 17,
+	"code": "017",
 	"capital": "Wote"
 }, {
 	"name": "Nyandarua",
-	"code": 18,
+	"code": "018",
 	"capital": "Ol Kalou"
 }, {
 	"name": "Nyeri",
-	"code": 19,
+	"code": "019",
 	"capital": "Nyeri"
 }, {
 	"name": "Kirinyaga",
-	"code": 20,
+	"code": "020",
 	"capital": "Kerugoya/Kutus"
 }, {
 	"name": "Murang'a",
-	"code": 21,
+	"code": "021",
 	"capital": "Murang'a"
 }, {
 	"name": "Kiambu",
-	"code": 22,
+	"code": "022",
 	"capital": "Kiambu"
 }, {
 	"name": "Turkana",
-	"code": 23,
+	"code": "023",
 	"capital": "Lodwar"
 }, {
 	"name": "West Pokot",
-	"code": 24,
+	"code": "024",
 	"capital": "Kapenguria"
 }, {
 	"name": "Samburu",
-	"code": 25,
+	"code": "025",
 	"capital": "Maralal"
 }, {
 	"name": "Trans-Nzoia",
-	"code": 26,
+	"code": "026",
 	"capital": "Kitale"
 }, {
 	"name": "Uasin Gishu",
-	"code": 27,
+	"code": "027",
 	"capital": "Eldoret"
 }, {
 	"name": "Elgeyo-Marakwet",
-	"code": 28,
+	"code": "028",
 	"capital": "Iten"
 }, {
 	"name": "Nandi",
-	"code": 29,
+	"code": "029",
 	"capital": "Kapsabet"
 }, {
 	"name": "Baringo",
-	"code": 30,
+	"code": "030",
 	"capital": "Kabarnet"
 }, {
 	"name": "Laikipia",
-	"code": 31,
+	"code": "031",
 	"capital": "Rumuruti"
 }, {
 	"name": "Nakuru",
-	"code": 32,
+	"code": "032",
 	"capital": "Nakuru"
 }, {
 	"name": "Narok",
-	"code": 33,
+	"code": "033",
 	"capital": "Narok"
 }, {
 	"name": "Kajiado",
-	"code": 34
+	"code": "034"
 }, {
 	"name": "Kericho",
-	"code": 35,
+	"code": "035",
 	"capital": "Kericho"
 }, {
 	"name": "Bomet",
-	"code": 36,
+	"code": "036",
 	"capital": "Bomet"
 }, {
 	"name": "Kakamega",
-	"code": 37,
+	"code": "037",
 	"capital": "Kakamega"
 }, {
 	"name": "Vihiga",
-	"code": 38,
+	"code": "038",
 	"capital": "Vihiga"
 }, {
 	"name": "Bungoma",
-	"code": 39,
+	"code": "039",
 	"capital": "Bungoma"
 }, {
 	"name": "Busia",
-	"code": 40,
+	"code": "040",
 	"capital": "Busia"
 }, {
 	"name": "Siaya",
-	"code": 41,
+	"code": "041",
 	"capital": "Siaya"
 }, {
 	"name": "Kisumu",
-	"code": 42,
+	"code": "042",
 	"capital": "Kisumu"
 }, {
 	"name": "Homa Bay",
-	"code": 43,
+	"code": "043",
 	"capital": "Homa Bay"
 }, {
 	"name": "Migori",
-	"code": 44,
+	"code": "044",
 	"capital": "Migori"
 }, {
 	"name": "Kisii",
-	"code": 45,
+	"code": "045",
 	"capital": "Kisii"
 }, {
 	"name": "Nyamira",
-	"code": 46,
+	"code": "046",
 	"capital": "Nyamira"
 }, {
 	"name": "Nairobi",
-	"code": 47,
+	"code": "047",
 	"capital": "Nairobi City"
 }]
